@@ -1,0 +1,1093 @@
+fileFormatVersion: 2
+guid: bc0442ef4f99d0743a24442c664cfad9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3116526780275966572
+    second: FD_Free_Tiles_0
+  - first:
+      213: -7691923594006084449
+    second: FD_Free_Tiles_1
+  - first:
+      213: -165525148692102970
+    second: FD_Free_Tiles_2
+  - first:
+      213: 5595787531265255076
+    second: FD_Free_Tiles_3
+  - first:
+      213: -2108861811995070974
+    second: FD_Free_Tiles_4
+  - first:
+      213: -2624879414173553170
+    second: FD_Free_Tiles_5
+  - first:
+      213: -8695100632153683255
+    second: FD_Free_Tiles_6
+  - first:
+      213: 4567102886260262193
+    second: FD_Free_Tiles_7
+  - first:
+      213: 2856349590455530372
+    second: FD_Free_Tiles_8
+  - first:
+      213: -909751010837320536
+    second: FD_Free_Tiles_9
+  - first:
+      213: 3685159376814312826
+    second: FD_Free_Tiles_10
+  - first:
+      213: 2291462969707919191
+    second: FD_Free_Tiles_11
+  - first:
+      213: 5706433602191439907
+    second: FD_Free_Tiles_12
+  - first:
+      213: 3574546973419045886
+    second: FD_Free_Tiles_13
+  - first:
+      213: -552076307993895167
+    second: FD_Free_Tiles_14
+  - first:
+      213: 4651386723307178297
+    second: FD_Free_Tiles_15
+  - first:
+      213: -7830182469919055121
+    second: FD_Free_Tiles_16
+  - first:
+      213: 6087020434076658825
+    second: FD_Free_Tiles_17
+  - first:
+      213: 3091465710550708424
+    second: FD_Free_Tiles_18
+  - first:
+      213: 4528634799044239515
+    second: FD_Free_Tiles_19
+  - first:
+      213: 7038736625421901777
+    second: FD_Free_Tiles_20
+  - first:
+      213: 1471271416648498189
+    second: FD_Free_Tiles_21
+  - first:
+      213: -312063776555573568
+    second: FD_Free_Tiles_22
+  - first:
+      213: 6303688644902603970
+    second: FD_Free_Tiles_23
+  - first:
+      213: 6101014802768742979
+    second: FD_Free_Tiles_24
+  - first:
+      213: 933467793897678292
+    second: FD_Free_Tiles_25
+  - first:
+      213: -2299924002329714563
+    second: FD_Free_Tiles_26
+  - first:
+      213: -2334635005517122952
+    second: FD_Free_Tiles_27
+  - first:
+      213: -2376012420006296014
+    second: FD_Free_Tiles_28
+  - first:
+      213: -642364330326629633
+    second: FD_Free_Tiles_29
+  - first:
+      213: 5055895413320832774
+    second: FD_Free_Tiles_30
+  - first:
+      213: 6350567663849345963
+    second: FD_Free_Tiles_31
+  - first:
+      213: -8033199154805081272
+    second: FD_Free_Tiles_32
+  - first:
+      213: 4857829311488358712
+    second: FD_Free_Tiles_33
+  - first:
+      213: 8371658468532362108
+    second: FD_Free_Tiles_34
+  - first:
+      213: 3124480798024724784
+    second: FD_Free_Tiles_35
+  - first:
+      213: -8708196096601455070
+    second: FD_Free_Tiles_36
+  - first:
+      213: -3030121671645074422
+    second: FD_Free_Tiles_37
+  - first:
+      213: 5547609654415885814
+    second: FD_Free_Tiles_38
+  - first:
+      213: -2529303140661744238
+    second: FD_Free_Tiles_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 3
+    wrapV: 3
+    wrapW: 3
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 3
+  spritePivot: {x: 1, y: 1}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 24, y: 386, z: 550, w: 143}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FD_Free_Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 144
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db8a8c76fdfb4d0800000000000000
+      internalID: -3116526780275966572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 678
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9442dbae3cc04590800000000000000
+      internalID: -7691923594006084449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 678
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c040d611cfe3bdf0800000000000000
+      internalID: -165525148692102970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 678
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a620a7ac1b38ad40800000000000000
+      internalID: 5595787531265255076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 678
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ea5afea51dbb2e0800000000000000
+      internalID: -2108861811995070974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 672
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed23fb741e829bd0800000000000000
+      internalID: -2624879414173553170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 720
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca843e2b0cc45780800000000000000
+      internalID: -8695100632153683255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1354434a0eb916f30800000000000000
+      internalID: 4567102886260262193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 690
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4833f65a1dac3a720800000000000000
+      internalID: 2856349590455530372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 690
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac2df4964aef53f0800000000000000
+      internalID: -909751010837320536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 684
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d87bbade0542330800000000000000
+      internalID: 3685159376814312826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 693
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757f6652e69eccf10800000000000000
+      internalID: 2291462969707919191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 684
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32839f09023513f40800000000000000
+      internalID: 5706433602191439907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 675
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3079798875b9130800000000000000
+      internalID: 3574546973419045886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 690
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f5d1dd581a658f0800000000000000
+      internalID: -552076307993895167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 639
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93941bba49b0d8040800000000000000
+      internalID: 4651386723307178297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 633
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2ebf9978a955390800000000000000
+      internalID: -7830182469919055121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 627
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ceea995d0797450800000000000000
+      internalID: 6087020434076658825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 642
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0fca83fa717ea20800000000000000
+      internalID: 3091465710550708424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 531
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9021822b51f8de30800000000000000
+      internalID: 4528634799044239515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 627
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfddc10bad9ea160800000000000000
+      internalID: 7038736625421901777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 627
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cf48dee810b6410800000000000000
+      internalID: 1471271416648498189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 216
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce532b06a35babf0800000000000000
+      internalID: -312063776555573568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 384
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc45169c633b7750800000000000000
+      internalID: 6303688644902603970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 579
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a4e6873a82ba450800000000000000
+      internalID: 6101014802768742979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 579
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5e988430854fc00800000000000000
+      internalID: 933467793897678292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 480
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d702ebe2e470510e0800000000000000
+      internalID: -2299924002329714563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 483
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b5f7f4d5b99fd0800000000000000
+      internalID: -2334635005517122952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 339
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236cb9bea45b60fd0800000000000000
+      internalID: -2376012420006296014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2ef728b0dd517f0800000000000000
+      internalID: -642364330326629633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 288
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d38457162a2640800000000000000
+      internalID: 5055895413320832774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 291
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba392ddb4afb12850800000000000000
+      internalID: 6350567663849345963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 354
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bffdf2ee7548090800000000000000
+      internalID: -8033199154805081272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 147
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8397eba550a7a6340800000000000000
+      internalID: 4857829311488358712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b13cda50b1e2470800000000000000
+      internalID: 8371658468532362108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 117
+        width: 129
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031fac94bb26c5b20800000000000000
+      internalID: 3124480798024724784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 117
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22680a3c9c5462780800000000000000
+      internalID: -8708196096601455070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 3
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ce167d468d2f5d0800000000000000
+      internalID: -3030121671645074422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 3
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f58cf396911dfc40800000000000000
+      internalID: 5547609654415885814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Free_Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29da393c13c16ecd0800000000000000
+      internalID: -2529303140661744238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -282, y: 243}
+      - {x: -292, y: 250}
+      - {x: -275, y: 290}
+      - {x: -241, y: 271}
+      - {x: -237, y: 251}
+      - {x: -249, y: 244}
+    - - {x: -172, y: 2}
+      - {x: -356, y: 0}
+      - {x: -360, y: 188}
+      - {x: -309, y: 214}
+      - {x: -268, y: 239}
+      - {x: -167, y: 188}
+      - {x: -172, y: 67}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
